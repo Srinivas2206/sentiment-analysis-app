@@ -1,0 +1,6 @@
+2024-12-11 14:23:50.556825 - Text: I love this product | Sentiment: POSITIVE | Score: 0.9999
+2024-12-11 14:24:20.740581 - Text: I am not satisfied | Sentiment: NEGATIVE | Score: 0.9997
+2024-12-11 14:27:48.921526 - Text: I love this project! | Sentiment: POSITIVE | Score: 0.9999
+2024-12-11 14:27:48.962720 - Text: This is the worst experience ever. | Sentiment: NEGATIVE | Score: 0.9998
+2024-12-11 14:27:49.001002 - Text: The weather today is amazing. | Sentiment: POSITIVE | Score: 0.9999
+2024-12-11 14:27:49.041727 - Text: I'm not sure how I feel about this. | Sentiment: NEGATIVE | Score: 0.9992

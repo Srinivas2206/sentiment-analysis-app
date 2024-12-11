@@ -76,5 +76,5 @@ Make sure that the appropriate IAM roles and policies are configured for accessi
 ![Alt text](screenshots/Screenshot2.png)
 ![Alt text](screenshots/Screenshot3.png)
 
-Contributing
+### Contributing
 Feel free to fork the repository and submit pull requests for any changes or improvements. Please make sure to update the documentation as needed.

@@ -72,7 +72,7 @@ Make sure that the appropriate IAM roles and policies are configured for accessi
 
 ### Screenshots
 
-![Alt text]("screenshots/Screenshot1.png")
+![Alt text](screenshots/Screenshot1.png)
 ![Alt text](screenshots/Screenshot2.png)
 ![Alt text](screenshots/Screenshot3.png)
 
